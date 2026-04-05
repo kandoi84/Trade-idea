@@ -1,0 +1,2 @@
+# Trade-idea
+Nifty dashbaord
